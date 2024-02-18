@@ -1,0 +1,10 @@
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.RepositoryPattern\bin\Bics.RepositoryPattern.dll
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.RepositoryPattern\bin\Bics.RepositoryPattern.pdb
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.RepositoryPattern\bin\EntityFramework.SqlServer.dll
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.RepositoryPattern\bin\EntityFramework.dll
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.RepositoryPattern\bin\LinqKit.dll
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.RepositoryPattern\obj\Debug\Bics.RepositoryPattern.csproj.AssemblyReference.cache
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.RepositoryPattern\obj\Debug\Bics.RepositoryPattern.csproj.CoreCompileInputs.cache
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.RepositoryPattern\obj\Debug\Bics.RepositoryPattern.csproj.CopyComplete
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.RepositoryPattern\obj\Debug\Bics.RepositoryPattern.dll
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.RepositoryPattern\obj\Debug\Bics.RepositoryPattern.pdb

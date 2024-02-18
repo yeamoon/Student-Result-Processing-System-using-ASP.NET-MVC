@@ -1,0 +1,14 @@
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.ServicePattern\bin\Bics.ServicePattern.dll
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.ServicePattern\bin\Bics.ServicePattern.pdb
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.ServicePattern\bin\Bics.RepositoryPattern.dll
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.ServicePattern\bin\Bics.RepositoryPatternEf6.dll
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.ServicePattern\bin\EntityFramework.dll
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.ServicePattern\bin\LinqKit.dll
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.ServicePattern\bin\CommonServiceLocator.dll
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.ServicePattern\bin\Bics.RepositoryPatternEf6.pdb
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.ServicePattern\bin\Bics.RepositoryPattern.pdb
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.ServicePattern\obj\Debug\Bics.ServicePattern.csproj.AssemblyReference.cache
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.ServicePattern\obj\Debug\Bics.ServicePattern.csproj.CoreCompileInputs.cache
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.ServicePattern\obj\Debug\Bics.ServicePattern.csproj.CopyComplete
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.ServicePattern\obj\Debug\Bics.ServicePattern.dll
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.ServicePattern\obj\Debug\Bics.ServicePattern.pdb

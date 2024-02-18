@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\FirstMVCApplication\\Bics.RepositoryPatternEf6\\Bics.RepositoryPatternEf6.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\FirstMVCApplication\\Bics.RepositoryPatternEf6\\Bics.RepositoryPatternEf6.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\FirstMVCApplication\\Bics.RepositoryPatternEf6\\Bics.RepositoryPatternEf6.csproj",
+        "projectName": "Bics.RepositoryPatternEf6",
+        "projectPath": "D:\\Projects\\FirstMVCApplication\\Bics.RepositoryPatternEf6\\Bics.RepositoryPatternEf6.csproj",
+        "packagesPath": "C:\\Users\\Faysal\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\FirstMVCApplication\\Bics.RepositoryPatternEf6\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Faysal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Projects\\FirstMVCApplication\\Bics.RepositoryPattern\\Bics.RepositoryPattern.csproj": {
+                "projectPath": "D:\\Projects\\FirstMVCApplication\\Bics.RepositoryPattern\\Bics.RepositoryPattern.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "CommonServiceLocator": {
+              "target": "Package",
+              "version": "[2.0.4, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "LinqKit": {
+              "target": "Package",
+              "version": "[1.1.15, )"
+            },
+            "NuGet.CommandLine": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.8.1, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Projects\\FirstMVCApplication\\Bics.RepositoryPattern\\Bics.RepositoryPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\FirstMVCApplication\\Bics.RepositoryPattern\\Bics.RepositoryPattern.csproj",
+        "projectName": "Bics.RepositoryPattern",
+        "projectPath": "D:\\Projects\\FirstMVCApplication\\Bics.RepositoryPattern\\Bics.RepositoryPattern.csproj",
+        "packagesPath": "C:\\Users\\Faysal\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\FirstMVCApplication\\Bics.RepositoryPattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Faysal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "LinqKit": {
+              "target": "Package",
+              "version": "[1.1.15, )"
+            },
+            "NuGet.CommandLine": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.8.1, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

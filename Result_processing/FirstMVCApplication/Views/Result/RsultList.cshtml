@@ -1,0 +1,26 @@
+﻿@model FirstMVCApplication.Models.ResultViewViewModel
+
+
+
+@{
+    ViewBag.Title = "Students";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+<div class="ibox float-e-margins">
+    <div class="ibox-title">
+        <div class="row">
+            <div class="col-lg-6">
+                <h3>Result List</h3>
+            </div>
+            <div class="col-lg-6">
+                <div align='right' style="margin-top: 10px;">
+
+                    <a target='_blank' href='@Url.Action("Student", "Student", new {id = 0})' class="btn btn-primary btn-smaller">New Student</a>
+                </div>
+            </div>
+        </div>
+    </div>

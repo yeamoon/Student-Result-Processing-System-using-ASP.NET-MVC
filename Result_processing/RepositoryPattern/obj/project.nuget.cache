@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HNLHKT40Rg9SY+5YyPcpXWOxR/XnMEVjwXzzhKZKK2S55KTrWxMUnbs2GG0Lq1vjo7w2MW8c25NBQQHQfa3X6Q==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\FirstMVCApplication\\RepositoryPattern\\RepositoryPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Faysal\\.nuget\\packages\\coverlet.msbuild\\2.9.0\\coverlet.msbuild.2.9.0.nupkg.sha512",
+    "C:\\Users\\Faysal\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\Faysal\\.nuget\\packages\\linqkit\\1.1.15\\linqkit.1.1.15.nupkg.sha512",
+    "C:\\Users\\Faysal\\.nuget\\packages\\nuget.commandline\\5.8.1\\nuget.commandline.5.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}

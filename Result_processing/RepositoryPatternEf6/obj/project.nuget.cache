@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "TR0gY76nYb7bqzafP85XEQA7kRpGZNyOyBOGkIahmer5yIzx3jlZM40JKUPqR6SsYAWCj6op/EXwrESni8HMyQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\FirstMVCApplication\\RepositoryPatternEf6\\RepositoryPatternEf6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Faysal\\.nuget\\packages\\commonservicelocator\\2.0.4\\commonservicelocator.2.0.4.nupkg.sha512",
+    "C:\\Users\\Faysal\\.nuget\\packages\\coverlet.msbuild\\2.9.0\\coverlet.msbuild.2.9.0.nupkg.sha512",
+    "C:\\Users\\Faysal\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\Faysal\\.nuget\\packages\\linqkit\\1.1.15\\linqkit.1.1.15.nupkg.sha512",
+    "C:\\Users\\Faysal\\.nuget\\packages\\nuget.commandline\\5.8.1\\nuget.commandline.5.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}

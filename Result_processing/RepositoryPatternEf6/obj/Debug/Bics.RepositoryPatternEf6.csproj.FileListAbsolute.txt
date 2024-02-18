@@ -1,0 +1,13 @@
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.RepositoryPatternEf6\bin\Bics.RepositoryPatternEf6.dll
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.RepositoryPatternEf6\bin\Bics.RepositoryPatternEf6.pdb
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.RepositoryPatternEf6\bin\CommonServiceLocator.dll
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.RepositoryPatternEf6\bin\EntityFramework.SqlServer.dll
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.RepositoryPatternEf6\bin\EntityFramework.dll
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.RepositoryPatternEf6\bin\LinqKit.dll
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.RepositoryPatternEf6\bin\Bics.RepositoryPattern.dll
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.RepositoryPatternEf6\bin\Bics.RepositoryPattern.pdb
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.RepositoryPatternEf6\obj\Debug\Bics.RepositoryPatternEf6.csproj.AssemblyReference.cache
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.RepositoryPatternEf6\obj\Debug\Bics.RepositoryPatternEf6.csproj.CoreCompileInputs.cache
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.RepositoryPatternEf6\obj\Debug\Bics.RepositoryPatternEf6.csproj.CopyComplete
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.RepositoryPatternEf6\obj\Debug\Bics.RepositoryPatternEf6.dll
+C:\Projects\Git\dataops-bics-data\Bics.Data\Bics.RepositoryPatternEf6\obj\Debug\Bics.RepositoryPatternEf6.pdb

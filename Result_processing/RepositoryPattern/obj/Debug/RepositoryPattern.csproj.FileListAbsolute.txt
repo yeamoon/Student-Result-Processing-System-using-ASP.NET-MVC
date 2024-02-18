@@ -1,0 +1,10 @@
+D:\Projects\FirstMVCApplication\RepositoryPattern\bin\RepositoryPattern.dll
+D:\Projects\FirstMVCApplication\RepositoryPattern\bin\RepositoryPattern.pdb
+D:\Projects\FirstMVCApplication\RepositoryPattern\bin\EntityFramework.SqlServer.dll
+D:\Projects\FirstMVCApplication\RepositoryPattern\bin\EntityFramework.dll
+D:\Projects\FirstMVCApplication\RepositoryPattern\bin\LinqKit.dll
+D:\Projects\FirstMVCApplication\RepositoryPattern\obj\Debug\RepositoryPattern.csproj.CoreCompileInputs.cache
+D:\Projects\FirstMVCApplication\RepositoryPattern\obj\Debug\RepositoryPattern.csproj.CopyComplete
+D:\Projects\FirstMVCApplication\RepositoryPattern\obj\Debug\RepositoryPattern.dll
+D:\Projects\FirstMVCApplication\RepositoryPattern\obj\Debug\RepositoryPattern.pdb
+D:\Projects\FirstMVCApplication\RepositoryPattern\obj\Debug\RepositoryPattern.csproj.AssemblyReference.cache

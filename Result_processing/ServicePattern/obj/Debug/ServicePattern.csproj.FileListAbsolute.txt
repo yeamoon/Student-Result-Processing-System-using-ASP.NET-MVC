@@ -1,0 +1,14 @@
+D:\Projects\FirstMVCApplication\ServicePattern\bin\ServicePattern.dll
+D:\Projects\FirstMVCApplication\ServicePattern\bin\ServicePattern.pdb
+D:\Projects\FirstMVCApplication\ServicePattern\bin\RepositoryPattern.dll
+D:\Projects\FirstMVCApplication\ServicePattern\bin\RepositoryPatternEf6.dll
+D:\Projects\FirstMVCApplication\ServicePattern\bin\EntityFramework.dll
+D:\Projects\FirstMVCApplication\ServicePattern\bin\LinqKit.dll
+D:\Projects\FirstMVCApplication\ServicePattern\bin\CommonServiceLocator.dll
+D:\Projects\FirstMVCApplication\ServicePattern\bin\RepositoryPatternEf6.pdb
+D:\Projects\FirstMVCApplication\ServicePattern\bin\RepositoryPattern.pdb
+D:\Projects\FirstMVCApplication\ServicePattern\obj\Debug\ServicePattern.csproj.AssemblyReference.cache
+D:\Projects\FirstMVCApplication\ServicePattern\obj\Debug\ServicePattern.csproj.CoreCompileInputs.cache
+D:\Projects\FirstMVCApplication\ServicePattern\obj\Debug\ServicePattern.csproj.CopyComplete
+D:\Projects\FirstMVCApplication\ServicePattern\obj\Debug\ServicePattern.dll
+D:\Projects\FirstMVCApplication\ServicePattern\obj\Debug\ServicePattern.pdb

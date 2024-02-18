@@ -1,0 +1,13 @@
+D:\Projects\FirstMVCApplication\RepositoryPatternEf6\bin\RepositoryPatternEf6.dll
+D:\Projects\FirstMVCApplication\RepositoryPatternEf6\bin\RepositoryPatternEf6.pdb
+D:\Projects\FirstMVCApplication\RepositoryPatternEf6\bin\CommonServiceLocator.dll
+D:\Projects\FirstMVCApplication\RepositoryPatternEf6\bin\EntityFramework.SqlServer.dll
+D:\Projects\FirstMVCApplication\RepositoryPatternEf6\bin\EntityFramework.dll
+D:\Projects\FirstMVCApplication\RepositoryPatternEf6\bin\LinqKit.dll
+D:\Projects\FirstMVCApplication\RepositoryPatternEf6\bin\RepositoryPattern.dll
+D:\Projects\FirstMVCApplication\RepositoryPatternEf6\bin\RepositoryPattern.pdb
+D:\Projects\FirstMVCApplication\RepositoryPatternEf6\obj\Debug\RepositoryPatternEf6.csproj.AssemblyReference.cache
+D:\Projects\FirstMVCApplication\RepositoryPatternEf6\obj\Debug\RepositoryPatternEf6.csproj.CoreCompileInputs.cache
+D:\Projects\FirstMVCApplication\RepositoryPatternEf6\obj\Debug\RepositoryPatternEf6.csproj.CopyComplete
+D:\Projects\FirstMVCApplication\RepositoryPatternEf6\obj\Debug\RepositoryPatternEf6.dll
+D:\Projects\FirstMVCApplication\RepositoryPatternEf6\obj\Debug\RepositoryPatternEf6.pdb

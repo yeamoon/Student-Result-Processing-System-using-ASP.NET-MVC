@@ -1,0 +1,55 @@
+﻿@{
+    ViewBag.Title = "Student";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model FirstMVCApplication.Models.StudentViewModel
+
+<form method="post" action="Student" class="form-horizontal" id="studentProfileForm">
+    <br />
+    @Html.HiddenFor(m => m.Id)
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary("", new { @class = "text-danger", @style = "padding-bottom: 10px;" })
+    <div class="form-group">
+        @Html.LabelFor(m => m.FirstName, new { @class = "col-sm-2 control-label" })
+        <div class="col-lg-3">
+            @Html.EditorFor(m => m.FirstName, new { htmlAttributes = new { @class = "form-control", @placeholder = "Enter First Name", @autofocus = "autofocus" } })
+        </div>
+        @Html.LabelFor(m => m.LastName, new { @class = "col-sm-2 control-label" })
+        <div class="col-lg-3">
+            @Html.EditorFor(m => m.LastName, new { htmlAttributes = new { @class = "form-control", @placeholder = "Enter Last Name" } })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.DateOfBirth, new { @class = "col-sm-2 control-label" })
+        <div class="col-lg-3">
+            @Html.EditorFor(m => m.DateOfBirth, new { htmlAttributes = new { @class = "form-control", @placeholder = "Enter Date Of Birth ", @autofocus = "autofocus" } })
+        </div>
+        @Html.LabelFor(m => m.RollNo, new { @class = "col-sm-2 control-label" })
+        <div class="col-lg-3">
+            @Html.EditorFor(m => m.RollNo, new { htmlAttributes = new { @class = "form-control", @placeholder = "Enter RollName" } })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.DepartmentId, new { @class = "col-sm-2 control-label" })
+        <div class="col-lg-3">
+            @Html.DropDownList("DepartmentId", null, "---Select---", new { @class = "form-control" })
+        </div>
+        @Html.LabelFor(m => m.AddressId, new { @class = "col-sm-2 control-label" })
+        <div class="col-lg-3">
+            @Html.DropDownList("AddressId", null, "---Select---", new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+       
+        @Html.LabelFor(m => m.AddressId1, new { @class = "col-sm-2 control-label" })
+        <div class="col-lg-3">
+            @Html.DropDownList("AddressId1", null, "---Select---", new { @class = "form-control" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div align='right' style="margin-top: 10px;">
+            <button type="submit" class="btn btn-primary block full-width m-b">Save</button>
+        </div>
+    </div>
+</form>
